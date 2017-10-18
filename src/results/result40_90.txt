@@ -1,0 +1,11 @@
+Epoch 39 complete
+0 --- 968	Correct out of	980	[98.7755102041]
+1 --- 1120	Correct out of	1135	[98.6784140969]
+2 --- 996	Correct out of	1032	[96.511627907]
+3 --- 983	Correct out of	1010	[97.3267326733]
+4 --- 943	Correct out of	982	[96.0285132383]
+5 --- 854	Correct out of	892	[95.7399103139]
+6 --- 932	Correct out of	958	[97.2860125261]
+7 --- 0	Correct out of	1028	[0.0]
+8 --- 932	Correct out of	974	[95.6878850103]
+9 --- 967	Correct out of	1009	[95.8374628345]

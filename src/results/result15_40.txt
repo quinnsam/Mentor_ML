@@ -1,0 +1,11 @@
+Epoch 14 complete
+0 --- 957	Correct out of	980	[97.6530612245]
+1 --- 1117	Correct out of	1135	[98.4140969163]
+2 --- 980	Correct out of	1032	[94.9612403101]
+3 --- 955	Correct out of	1010	[94.5544554455]
+4 --- 950	Correct out of	982	[96.7413441955]
+5 --- 850	Correct out of	892	[95.2914798206]
+6 --- 911	Correct out of	958	[95.0939457203]
+7 --- 0	Correct out of	1028	[0.0]
+8 --- 919	Correct out of	974	[94.3531827515]
+9 --- 936	Correct out of	1009	[92.7651139742]

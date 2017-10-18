@@ -1,0 +1,11 @@
+Epoch 59 complete
+0 --- 965	Correct out of	980	[98.4693877551]
+1 --- 1116	Correct out of	1135	[98.3259911894]
+2 --- 999	Correct out of	1032	[96.8023255814]
+3 --- 972	Correct out of	1010	[96.2376237624]
+4 --- 948	Correct out of	982	[96.5376782077]
+5 --- 849	Correct out of	892	[95.1793721973]
+6 --- 931	Correct out of	958	[97.1816283925]
+7 --- 998	Correct out of	1028	[97.0817120623]
+8 --- 932	Correct out of	974	[95.6878850103]
+9 --- 966	Correct out of	1009	[95.7383548067]

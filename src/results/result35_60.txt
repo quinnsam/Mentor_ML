@@ -1,0 +1,11 @@
+Epoch 34 complete
+0 --- 967	Correct out of	980	[98.6734693878]
+1 --- 1120	Correct out of	1135	[98.6784140969]
+2 --- 987	Correct out of	1032	[95.6395348837]
+3 --- 5	Correct out of	1010	[0.49504950495]
+4 --- 948	Correct out of	982	[96.5376782077]
+5 --- 853	Correct out of	892	[95.6278026906]
+6 --- 929	Correct out of	958	[96.9728601253]
+7 --- 990	Correct out of	1028	[96.3035019455]
+8 --- 915	Correct out of	974	[93.9425051335]
+9 --- 947	Correct out of	1009	[93.8553022795]

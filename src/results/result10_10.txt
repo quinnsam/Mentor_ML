@@ -1,0 +1,11 @@
+Epoch 9 complete
+0 --- 932	Correct out of	980	[95.1020408163]
+1 --- 1091	Correct out of	1135	[96.1233480176]
+2 --- 924	Correct out of	1032	[89.5348837209]
+3 --- 878	Correct out of	1010	[86.9306930693]
+4 --- 915	Correct out of	982	[93.1771894094]
+5 --- 748	Correct out of	892	[83.8565022422]
+6 --- 890	Correct out of	958	[92.9018789144]
+7 --- 916	Correct out of	1028	[89.1050583658]
+8 --- 860	Correct out of	974	[88.295687885]
+9 --- 910	Correct out of	1009	[90.1883052527]

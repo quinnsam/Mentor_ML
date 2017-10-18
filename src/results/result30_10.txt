@@ -1,0 +1,11 @@
+Epoch 29 complete
+0 --- 952	Correct out of	980	[97.1428571429]
+1 --- 1059	Correct out of	1135	[93.3039647577]
+2 --- 923	Correct out of	1032	[89.4379844961]
+3 --- 902	Correct out of	1010	[89.3069306931]
+4 --- 887	Correct out of	982	[90.3258655804]
+5 --- 755	Correct out of	892	[84.6412556054]
+6 --- 890	Correct out of	958	[92.9018789144]
+7 --- 920	Correct out of	1028	[89.4941634241]
+8 --- 878	Correct out of	974	[90.1437371663]
+9 --- 917	Correct out of	1009	[90.882061447]

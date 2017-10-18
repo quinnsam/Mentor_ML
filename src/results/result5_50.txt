@@ -1,0 +1,11 @@
+Epoch 4 complete
+0 --- 953	Correct out of	980	[97.2448979592]
+1 --- 1114	Correct out of	1135	[98.1497797357]
+2 --- 956	Correct out of	1032	[92.6356589147]
+3 --- 967	Correct out of	1010	[95.7425742574]
+4 --- 922	Correct out of	982	[93.8900203666]
+5 --- 816	Correct out of	892	[91.4798206278]
+6 --- 935	Correct out of	958	[97.5991649269]
+7 --- 957	Correct out of	1028	[93.093385214]
+8 --- 878	Correct out of	974	[90.1437371663]
+9 --- 951	Correct out of	1009	[94.2517343905]
