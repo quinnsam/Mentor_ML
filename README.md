@@ -1,3 +1,6 @@
+This code is completly cloned from (https://github.com/mnielsen/neural-networks-and-deep-learning.git) I have just made small modifications and added a few wrapper scripts.
+
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
